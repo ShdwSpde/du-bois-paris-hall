@@ -8,13 +8,13 @@ Try it at [vr-cave-gallery.vercel.app/#hall](https://vr-cave-gallery.vercel.app/
 
 ## What's in it
 
-- 69 of the exhibit's charts. Each one carries its title, read off the chart itself, and a link to its Library of Congress record (LOT 11931).
-- Each chart names its series: the Georgia series by Du Bois or the national series by his students. The title panel credits Du Bois, his students, Thomas J. Calloway and Daniel Murray, and names the colonial displays that were also at the fair.
+- 69 of the exhibit's charts, titled from the charts themselves and linked to their Library of Congress records (LOT 11931).
+- The charts are labeled by series: the Georgia series by Du Bois and the national series by his students. The title panel credits Du Bois, his students, Thomas J. Calloway and Daniel Murray, and names the colonial displays that were also at the fair.
 - Period recordings play in the hall, including the Dinwiddie Colored Quartet (Victor, 1902), which is public domain and comes from the Library of Congress National Jukebox.
 
 ## How it's built
 
-React Three Fiber and WebXR on Vite, hosted on Vercel. The chart titles and links are generated from the Library of Congress catalog. Before release, a cultural review checked each caption against its source.
+React Three Fiber and WebXR on Vite, hosted on Vercel. The chart titles and links are generated from the Library of Congress catalog. A cultural review approved the captions before release.
 
 ## Related
 
