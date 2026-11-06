@@ -19,6 +19,8 @@ React Three Fiber and WebXR on Vite, deployed on Vercel. Plate metadata is gener
 
 ## Demo, in captions
 
+**▶ [Watch the demo](https://radicalimagination.xyz/demos/paris-hall.mp4)** (silent, captioned, under 30 seconds)
+
 A 30 to 40 second screen recording. No voiceover; these are the on-screen captions.
 
 1. "Paris, 1900. The American Negro Exhibit."
